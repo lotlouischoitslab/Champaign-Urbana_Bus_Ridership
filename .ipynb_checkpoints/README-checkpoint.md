@@ -7,7 +7,7 @@
 # Project Description
 
 
-![image.png](attachment:image.png)
+![Alt text](https://yourewelcomecu.com/wp-content/uploads/2015/09/Church-Neil-web.jpg)
 
 
 #### A 5W GREEN hopper bus approaches a bus stop shown above. 
@@ -20,7 +20,7 @@ This project is about analyzing and predicting the ridership of the buses in the
 Datasets from the years 1997 to 2022 and months of July, October, December and February were used to analyze and predict the passenger volume for the bus.
 
 
-![image.png](attachment:image.png)
+![Alt text](https://mtd.org/media/1096/weekday-daytime-no-insets.png?anchor=center&mode=crop&width=1200&height=720&rnd=132734497340000000)
 
 
 The image above shows the CUMTD bus network that connects Campustown, Champaign and Urbana. Image downloaded from:
