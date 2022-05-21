@@ -1,6 +1,6 @@
 # Champaign-Urbana Bus Ridership Analysis & Prediction
 ## Contributors:
-- ### Louis Sungwoo Cho (CEE Transportation Engineering/ CS Minor)
+- ### Louis Sungwoo Cho
 
 
 
@@ -38,8 +38,28 @@ As an undergraduate student who is majoring in civil engineering specializing in
 # Machine Learning Algorithms 
 
 
-There are many useful applied machine learning algorithms for data analytics and dataset training. For this project, linear and logistic regression algorithms were used to analyze the line of best fit for the traffic data.
+There are many useful applied machine learning algorithms for data analytics and dataset training. Throughout the years measured in this project, each month had a different trend with respect to the passenger ridership. Datasets had to be broken down into each months with respect to the year to determine the line of best fit using the linear regression algorithm.The linear regression algorithms were used to analyze the line of best fit for the traffic data.  
 
-```python
 
-```
+![image.png](attachment:image.png)
+
+
+#### Figure 1. above shows the yearly ridership of the CUMTD bus during the month of October
+
+
+![image.png](attachment:image.png)
+
+
+####                      Figure 2. above shows the yearly ridership of the CUMTD bus during the month of July
+
+
+![image.png](attachment:image.png)
+
+
+#### Figure 3. above shows the yearly ridership of the CUMTD bus during the month of February
+
+
+![image.png](attachment:image.png)
+
+
+#### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of December
