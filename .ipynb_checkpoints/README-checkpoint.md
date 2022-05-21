@@ -35,7 +35,7 @@ As shown in the image above, the CUMTD bus network is very dense connecting almo
 As an undergraduate student who is majoring in civil engineering specializing in transportation engineering and minoring in computer science at UIUC, I would frequently use the CUMTD bus to travel around campus. Either to go to I-Hotel so I could attend civil engineering conferences or go to the South Quad which is very far from the Engineering area (CIF, Grainger Library, Newmark CEE Laboratory, Thomas Siebel Center for CS, ECEB, Sidney Lu MEB, the list goes on). I would also ride the bus to go to downtown Champaign and Urbana to get some delicious food too! I always wondered what the daily ridership would be for these buses and whether the ridership would increase or not.
 
 
-# Machine Learning Algorithms 
+# Monthly Ridership Trend Analysis
 
 
 There are many useful applied machine learning algorithms for data analytics and dataset training. Throughout the years measured in this project, each month had a different trend with respect to the passenger ridership. Datasets had to be broken down into each months with respect to the year to determine the line of best fit using the linear regression algorithm.The linear regression algorithms were used to analyze the line of best fit for the traffic data.  
@@ -68,4 +68,11 @@ There are many useful applied machine learning algorithms for data analytics and
 ![title](images/total.png)
 
 
-As shown in the figures above, each month 
+#### Figure 5. above shows the total yearly ridership of the CUMTD bus
+
+
+# Machine Learning and Dataset Training
+
+```python
+
+```
