@@ -37,6 +37,9 @@ As an undergraduate student who is majoring in civil engineering specializing in
 
 # Machine Learning Algorithms 
 
+
+There are many useful applied machine learning algorithms for data analytics and dataset training. For this project, linear and logistic regression algorithms were used to analyze the line of best fit for the traffic data.
+
 ```python
 
 ```
