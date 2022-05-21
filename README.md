@@ -41,7 +41,7 @@ As an undergraduate student who is majoring in civil engineering specializing in
 There are many useful applied machine learning algorithms for data analytics and dataset training. Throughout the years measured in this project, each month had a different trend with respect to the passenger ridership. Datasets had to be broken down into each months with respect to the year to determine the line of best fit using the linear regression algorithm.The linear regression algorithms were used to analyze the line of best fit for the traffic data.  
 
 
-![image.png](attachment:image.png)
+![title](images/october.png)
 
 
 #### Figure 1. above shows the yearly ridership of the CUMTD bus during the month of October
@@ -63,3 +63,12 @@ There are many useful applied machine learning algorithms for data analytics and
 
 
 #### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of December
+
+
+![image.png](attachment:image.png)
+
+```python
+
+```
+
+As shown in the figures above, each month 
