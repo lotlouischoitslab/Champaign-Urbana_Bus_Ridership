@@ -77,7 +77,7 @@ Although all the figures above called the function to perform data analysis and 
 # Machine Learning and Dataset Training
 
 
-Machine learning algorithms are important for dataset training. 
+To train the ridership data, classification models such as SVM, Decision Trees, Naive Bayes and Logistic Regression were used to process the data. 
 
 ```python
 
