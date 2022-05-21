@@ -47,28 +47,25 @@ There are many useful applied machine learning algorithms for data analytics and
 #### Figure 1. above shows the yearly ridership of the CUMTD bus during the month of October
 
 
-![image.png](attachment:image.png)
+![title](images/july.png)
 
 
 ####                      Figure 2. above shows the yearly ridership of the CUMTD bus during the month of July
 
 
-![image.png](attachment:image.png)
+![title](images/february.png)
 
 
 #### Figure 3. above shows the yearly ridership of the CUMTD bus during the month of February
 
 
-![image.png](attachment:image.png)
+![title](images/december.png)
 
 
 #### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of December
 
 
-![image.png](attachment:image.png)
+![title](images/total.png)
 
-```python
-
-```
 
 As shown in the figures above, each month 
