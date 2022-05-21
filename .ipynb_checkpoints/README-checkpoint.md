@@ -38,7 +38,7 @@ As an undergraduate student who is majoring in civil engineering specializing in
 # Monthly Ridership Trend Analysis
 
 
-There are many useful applied machine learning algorithms for data analytics and dataset training. Throughout the years measured in this project, each month had a different trend with respect to the passenger ridership. Datasets had to be broken down into each months with respect to the year to determine the line of best fit using the linear regression algorithm.The linear regression algorithms were used to analyze the line of best fit for the traffic data.  
+This section analyzes the passenger riderhip trend in four different months: October, July, February and December in addition to the total number of passengers with respect to years. Each data was analyzed separately and the linear regression method was called to determine the line of best fit for each figure shown below. A degree of 1, 2, and 3 were set to determine which degree produces the closest line of best fit according to the data plotted in a scatter plot.
 
 
 ![title](images/october.png)
@@ -69,6 +69,9 @@ There are many useful applied machine learning algorithms for data analytics and
 
 
 #### Figure 5. above shows the total yearly ridership of the CUMTD bus
+
+
+Although all the figures above called the function to perform data analysis and determine the line of best fit using the linear regression method, the data scattered shows that the trend line approximately matches the plots using the degree of 3. Thus, polynomial regression is more suitable for the analyzed dataset. According to the monthly bus ridership plots with respect to time in years, there is an increasing trend. However around the year 2020, there has been a significant drop in monthly ridership and the total ridership with respect to years due to the COVID-19 pandemic.
 
 
 # Machine Learning and Dataset Training
