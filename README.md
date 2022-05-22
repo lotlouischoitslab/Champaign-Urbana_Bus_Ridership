@@ -98,7 +98,7 @@ Although all the figures above called the function to perform data analysis and 
 # Machine Learning and Dataset Training
 
 
-To train the ridership data, classification models such as SVM, Decision Trees, Naive Bayes and Logistic Regression were used to process the data. The classification packages used to train the dataset are from the sklearn library.
+The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The DecisionTreeRegressor was called to train the data. The first model does not split the datasets into training set but is trained directly with the given featured data and the total passenger ridership to be predicted and to calculate the mean absolute error. The second model splits both the x and y datas into training sets and then the mean absolute error is determined. The first model shows that the MAE is 0 meaing that it is a perfect model to be used to train. The other model had a large mean absolute error meaning that the other model is not good to use.
 
 ```python
 
