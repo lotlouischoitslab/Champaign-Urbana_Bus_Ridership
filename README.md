@@ -1,6 +1,6 @@
 # Champaign-Urbana Bus Ridership Analysis & Prediction
 ## Contributors:
-- ### Louis Sungwoo Cho 조성우
+- ### Louis Sungwoo Cho UIUC CEE/CS 2024
 
 
 
