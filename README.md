@@ -41,34 +41,40 @@ As an undergraduate student who is majoring in civil engineering specializing in
 This section analyzes the passenger riderhip trend in four different months: October, July, February and December in addition to the total number of passengers with respect to years. Each data was analyzed separately and the linear regression method was called to determine the line of best fit for each figure shown below. A degree of 1, 2, and 3 were set to determine which degree produces the closest line of best fit according to the data plotted in a scatter plot.
 
 
+![title](images/describe.jpg)
+
+
+#### Figure 1. shows the mean, standard deviation, minimum value, 25 percentile, 50th percentile, 75th percentile and the maximum values respectively for each month analyzed and the total passenger ridership 
+
+
 ![title](images/october.png)
 
 
-#### Figure 1. above shows the yearly ridership of the CUMTD bus during the month of October
+#### Figure 2. above shows the yearly ridership of the CUMTD bus during the month of October
 
 
 ![title](images/july.png)
 
 
-####                      Figure 2. above shows the yearly ridership of the CUMTD bus during the month of July
+#### Figure 3. above shows the yearly ridership of the CUMTD bus during the month of July
 
 
 ![title](images/february.png)
 
 
-#### Figure 3. above shows the yearly ridership of the CUMTD bus during the month of February
+#### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of February
 
 
 ![title](images/december.png)
 
 
-#### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of December
+#### Figure 5. above shows the yearly ridership of the CUMTD bus during the month of December
 
 
 ![title](images/total.png)
 
 
-#### Figure 5. above shows the total yearly ridership of the CUMTD bus
+#### Figure 6. above shows the total yearly ridership of the CUMTD bus
 
 
 Although all the figures above called the function to perform data analysis and determine the line of best fit using the linear regression method, the data scattered shows that the trend line approximately matches the plots using the degree of 3. Thus, polynomial regression is more suitable for the analyzed dataset. According to the monthly bus ridership plots with respect to time in years, there is an increasing trend. However around the year 2020, there has been a significant drop in monthly ridership and the total ridership with respect to years due to the COVID-19 pandemic.
