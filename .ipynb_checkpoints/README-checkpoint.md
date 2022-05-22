@@ -38,7 +38,7 @@ As an undergraduate student who is majoring in civil engineering specializing in
 # Monthly Ridership Trend Analysis
 
 
-This section analyzes the passenger riderhip trend in four different months: October, July, February and December in addition to the total number of passengers with respect to years. Each data was analyzed separately and the linear regression method was called to determine the line of best fit for each figure shown below. A degree of 1, 2, and 3 were set to determine which degree produces the closest line of best fit according to the data plotted in a scatter plot.
+This section analyzes the passenger riderhip trend in four different months: October, July, February and December in addition to the total number of passengers with respect to years from 1997 to 2021. A scatter plot including all the monthls and the total bus ridership passenger analyzed from the years 1997 to 2021 were also plotted.
 
 
 ![title](images/describe.jpg)
@@ -47,34 +47,49 @@ This section analyzes the passenger riderhip trend in four different months: Oct
 #### Figure 1. shows the mean, standard deviation, minimum value, 25 percentile, 50th percentile, 75th percentile and the maximum values respectively for each month analyzed and the total passenger ridership 
 
 
-![title](images/october.png)
+![title](images/anual.png)
 
 
-#### Figure 2. above shows the yearly ridership of the CUMTD bus during the month of October
+#### Figure 2. above shows the scatter plot of all the data including both months and total ridership
+
+
+![title](images/scatter.png)
+
+
+#### Figure 3. above shows the ridership of the CUMTD bus broken down into months
+
+
+Datasets were then further broken down into months and total ridership to determine the line of best fit for all the plotted data points. The following figure shows a polynomial regression of degree 3 line curve plotted with respect to the analyzed data.
+
+
+![title](images/oct.png)
+
+
+#### Figure 4. above shows the line of best fit for the October passenger ridership with respect to the years from 1997 to 2021.
 
 
 ![title](images/july.png)
 
 
-#### Figure 3. above shows the yearly ridership of the CUMTD bus during the month of July
+#### Figure 5. above shows the line of best fit for the July passenger ridership with respect to the years from 1997 to 2021.
 
 
-![title](images/february.png)
+![title](images/feb.png)
 
 
-#### Figure 4. above shows the yearly ridership of the CUMTD bus during the month of February
+#### Figure 6. above shows the line of best fit for the February passenger ridership with respect to the years from 1997 to 2021.
 
 
-![title](images/december.png)
+![title](images/dec.png)
 
 
-#### Figure 5. above shows the yearly ridership of the CUMTD bus during the month of December
+#### Figure 7. above shows the line of best fit for the December passenger ridership with respect to the years from 1997 to 2021.
 
 
-![title](images/total.png)
+![title](images/tot.png)
 
 
-#### Figure 6. above shows the total yearly ridership of the CUMTD bus
+#### Figure 8. above shows the line of best fit for the total passenger ridership with respect to the years from 1997 to 2021.
 
 
 Although all the figures above called the function to perform data analysis and determine the line of best fit using the linear regression method, the data scattered shows that the trend line approximately matches the plots using the degree of 3. Thus, polynomial regression is more suitable for the analyzed dataset. According to the monthly bus ridership plots with respect to time in years, there is an increasing trend. However around the year 2020, there has been a significant drop in monthly ridership and the total ridership with respect to years due to the COVID-19 pandemic.
