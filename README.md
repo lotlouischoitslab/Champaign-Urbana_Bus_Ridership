@@ -1,6 +1,6 @@
 # Champaign-Urbana Bus Ridership Analysis & Prediction
 ## Contributors:
-- ### Louis Sungwoo Cho
+- ### Louis Sungwoo Cho 조성우
 
 
 
