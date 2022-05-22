@@ -98,7 +98,7 @@ Although all the figures above called the function to perform data analysis and 
 # Machine Learning and Dataset Training
 
 
-The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The DecisionTreeRegressor was called to train the data. The first model does not split the datasets into training set but is trained directly with the given featured data and the total passenger ridership to be predicted and to calculate the mean absolute error. The second model splits both the x and y datas into training sets and then the mean absolute error is determined. The first model shows that the MAE is 0 meaing that it is a perfect model to be used to train. The other model had a large mean absolute error meaning that the other model is not good to use.
+The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The Decision Tree, Random Forest algorithms were used to train the datasets.
 
 ```python
 
