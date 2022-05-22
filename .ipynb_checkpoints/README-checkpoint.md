@@ -101,11 +101,14 @@ Although all the figures above called the function to perform data analysis and 
 The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The Decision Tree, Random Forest algorithms were used to train the datasets. Using the Decision Tree Regressor, the mean absolute error (MAE) fluctuated variously meaning that this model is not the most optimal choice to train the given dataset. To minimize the MAE, the Random Forest Algorithm was used to determine the MAE with a lower fluctuation. The Random Forest Algorithm gave an approximate MAE value of 350535. 
 
 
-## \$MAE$ = $\frac{1}{n}$ $\sum_{i=1}^{n}$ $|y_i - \hat{y}_i| $
+\$MAE$ = $\frac{1}{n}$ $\sum_{i=1}^{n}$ $|y_i - \hat{y}_i| $
 
 
 The formula above shows the Mean Absolute Error (MAE) used to train the dataset.
 
-```python
 
+# Time Series Forecasting
+
+```python
+s
 ```
