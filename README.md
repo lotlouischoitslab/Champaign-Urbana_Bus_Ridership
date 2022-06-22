@@ -31,9 +31,7 @@ As shown in the image above, the CUMTD bus network is very dense connecting almo
 
 # Motivation
 
-
-As an undergraduate student who is majoring in civil engineering specializing in transportation engineering and minoring in computer science at UIUC, I would frequently use the CUMTD bus to travel around campus. Either to go to I-Hotel so I could attend civil engineering conferences or go to the South Quad which is very far from the Engineering area (CIF, Grainger Library, Newmark CEE Laboratory, Thomas Siebel Center for CS, ECEB, Sidney Lu MEB, the list goes on). I would also ride the bus to go to downtown Champaign and Urbana to get some delicious food too! I always wondered what the daily ridership would be for these buses and whether the ridership would increase or not.
-
+The Champaign-Urbana Mass Transit District also known as (CUMTD) serves as a great public transportation system throughout the entire University of Illinois at Urbana-Champaign and a crucial type of mobility for university students to travel around on campus. From Grainger Library, Campus Instructional Facility (CIF), Newmark Civil Engineering Laboratory, Thomas Siebel Center for Computer Science, Electrical & Computer Engineering Building, Sidney Lu Mechanical Engineering Building to Business Instructional Facility, Altgeld Hall, Main Library, Foellinger Auditorium and many more wonderful places, you could almost travel anywhere by using the CUMTD buses. People even use the buses to go to downtown Champaign or to downtown Urbana to get some delicious food or to even go shopping, watch movies and even to enjoy some karaoke. As an Undergraduate Computational Transportation Scientist at UIUC, I decided to perform a traffic capacity analysis on the passenger ridership volume of the CUMTD buses and to perform time series forecasting to estimate the predicted passenger volume in the near future.
 
 # Monthly Ridership Trend Analysis
 
