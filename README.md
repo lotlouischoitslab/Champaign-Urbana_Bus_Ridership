@@ -94,6 +94,21 @@ Datasets were then further broken down into months and total ridership to determ
 
 Although all the figures above called the function to perform data analysis and determine the line of best fit using the linear regression method, the data scattered shows that the trend line approximately matches the plots using the degree of 3. Thus, polynomial regression is more suitable for the analyzed dataset. According to the monthly bus ridership plots with respect to time in years, there is an increasing trend. However around the year 2020, there has been a significant drop in monthly ridership and the total ridership with respect to years due to the COVID-19 pandemic.
 
+# Data Cleaning 
+
+![title](images/data_to_be_cleaned.png)
+
+#### Figure 9. above shows the data that needs to be cleaned
+
+The given dataset by the Champaign County Regional Data Portal neede some cleaning to be fitted appropriately for the time series forecasting model. The months had to be aligned sequentially with respect to each year from 1997 to 2021. New dataframe had to be created using the Pandas library. Months had to be adjusted in sequential order. To make the datasets consistent with the appropriate sequence, the dates have been adjusted by default to the starting day of that specific given month for each year. Pandas has another function which converts the independent variable to date and time format. The modified data frame was used for the time series analysis and forecasting for passenger volume. 
+
+![title](images/estimator.png)
+
+### Figure 10. above shows the estimator for traffic trend analysis
+
+An estimator curve was plotted to mathematically analyze the trend of the passenger volume of the CUMTD buses.The blue lines represent the recorded passenger ridership by the Champaign County Portal. The orange line shows the estimator line to approximate the passenger trend of the CUMTD buses. 
+
+
 
 # Machine Learning and Dataset Training
 
