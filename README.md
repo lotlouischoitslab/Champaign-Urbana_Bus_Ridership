@@ -42,19 +42,19 @@ This section analyzes the passenger riderhip trend in four different months: Oct
 ![title](images/describe.jpg)
 
 
-#### Figure 1. shows the mean, standard deviation, minimum value, 25 percentile, 50th percentile, 75th percentile and the maximum values respectively for each month analyzed and the total passenger ridership 
+#### Figure 1. shows the mean, standard deviation, minimum value, 25 percentile, 50th percentile, 75th percentile and the maximum values respectively for each month analyzed and the total passenger ridership.
 
 
 ![title](images/anual.png)
 
 
-#### Figure 2. above shows the scatter plot of all the data including both months and total ridership
+#### Figure 2. above shows the scatter plot of all the data including both months and total ridership.
 
 
 ![title](images/scatter.png)
 
 
-#### Figure 3. above shows the ridership of the CUMTD bus broken down into months
+#### Figure 3. above shows the ridership of the CUMTD bus broken down into months.
 
 
 Datasets were then further broken down into months and total ridership to determine the line of best fit for all the plotted data points. The following figure shows a polynomial regression of degree 3 line curve plotted with respect to the analyzed data.
@@ -96,18 +96,18 @@ Although all the figures above called the function to perform data analysis and 
 
 ![title](images/data_to_be_cleaned.png)
 
-#### Figure 9. above shows the data that needs to be cleaned
+#### Figure 9. above shows the data that needs to be cleaned.
 
 The given dataset by the Champaign County Regional Data Portal neede some cleaning to be fitted appropriately for the time series forecasting model. The months had to be aligned sequentially with respect to each year from 1997 to 2021. New dataframe had to be created using the Pandas library. Months had to be adjusted in sequential order. To make the datasets consistent with the appropriate sequence, the dates have been adjusted by default to the starting day of that specific given month for each year. Pandas has another function which converts the independent variable to date and time format. The modified data frame was used for the time series analysis and forecasting for passenger volume. 
 
 ![title](images/cleaned_data.png)
 
-### Figure 10. above shows the modified time data frame
+### Figure 10. above shows the modified time data frame.
 
 
 ![title](images/estimator.png)
 
-### Figure 11. above shows the estimator for traffic trend analysis
+### Figure 11. above shows the estimator for traffic trend analysis.
 
 An estimator curve was plotted to mathematically analyze the trend of the passenger volume of the CUMTD buses.The blue lines represent the recorded passenger ridership by the Champaign County Portal. The orange line shows the estimator line to approximate the passenger trend of the CUMTD buses. 
 
@@ -142,7 +142,7 @@ Due to the fluctuation in the time series graph, there is a significant differen
 
 ![title](images/trained_graph.png)
 
-### Figure 12. above shows the trained and tested datasets and prediction estimator
+### Figure 12. above shows the trained and tested datasets and prediction estimator.
 
 
 # Time Series Forecasting
@@ -151,7 +151,7 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 
 ![title](images/forecasted_data.png)
 
-###  Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts
+###  Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts.
 
 
 ![title](images/predicted_trend.png)
@@ -160,6 +160,8 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 
 # Conclusive Remarks
 
+The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume from the official Champaign County Regional Data Portal was initially used to analyze the monthly ridership with respect to years to determine which month has the highest volume of passengers. The given dataset was then cleaned and parsed to perform time series forecasting to predict future passenger volume of the CUMTD buses. Each year from 1997 to 2021 has four months (February, July, October, and December) and passenger volume with respect to each month of the yearly period. The sequential datasets were then used for both training and testing to generate an estimator to forecast the future volume of passenger ridership. The historical results show that there has been a drastic drop in the year 2020 due to COVID 19 pandemic. The predictor estimates that the projected passenger volume from 2022 to 2034 is approximately between 800000 and 1400000 passengers. Based on this prediction, passenger ridership of the CUMTD buses will be steady unless there is a big pandemic.
+
 ![title](images/bus_wait.jpg)
 
-The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume from the official Champaign County Regional Data Portal was initially used to analyze the monthly ridership with respect to years to determine which month has the highest volume of passengers. The given dataset was then cleaned and parsed to perform time series forecasting to predict future passenger volume of the CUMTD buses. Each year from 1997 to 2021 has four months (February, July, October, and December) and passenger volume with respect to each month of the yearly period. The sequential datasets were then used for both training and testing to generate an estimator to forecast the future volume of passenger ridership. The historical results show that there has been a drastic drop in the year 2020 due to COVID 19 pandemic. The predictor estimates that the projected passenger volume from 2022 to 2034 is approximately between 800000 and 1400000 passengers. Based on this prediction, passenger ridership of the CUMTD buses will be steady unless there is a big pandemic.
+# 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building.
