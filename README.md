@@ -115,7 +115,7 @@ An estimator curve was plotted to mathematically analyze the trend of the passen
 
 # Machine Learning and Dataset Training
 
-Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 80% of the datasets were used for training and 20% of the datasets were used for testing the model. Once the predictions were made, three methods to test the performance of the model were used: Mean Absolute Error, Mean Squared Error, and Root Mean Squared.
+Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 90% of the datasets were used for training and 10% of the datasets were used for testing the model. Once the predictions were made, three methods to test the performance of the model were used: Mean Absolute Error, Mean Squared Error, and Root Mean Squared.
 
 This is the formula for the Mean Absolute Error (MAE)
 
@@ -140,6 +140,14 @@ $$ RMSE \= 515245.88644805737 \$$
 
 Due to the fluctuation in the time series graph, there is a significant difference between the actual and trained datasets. According to the results above, the MAE is better for approximation for this passenger volume model. 
 
+![title](images/trained_graph.png)
+
+### Figure 12. above shows the trained and tested datasets and prediction estimator
+
 
 # Time Series Forecasting
-Finally, using a moving average, forecasting of the ridership of CUMTD buses was performed. After fitting the given model of passenger volume training datasets with the moving average, 60 seasonal periods were forecasted including previous data from 2017 to predicted passenger volume in 2031.   
+Finally, using a moving average, forecasting of the ridership of CUMTD buses was performed. After fitting the given model of passenger volume training datasets with the moving average, 60 seasonal periods were forecasted including previous data from 2017 to predicted passenger volume in 2034.
+
+![title](images/predicted_trend.png)
+
+### Figure 13. above shows the projected passenger volume until 2034.
