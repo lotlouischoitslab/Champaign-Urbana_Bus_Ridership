@@ -138,7 +138,7 @@ $$ MSE \= 373232104920.6135 \$$
 
 $$ RMSE \= 610927.2501048006 \$$
 
-Due to the fluctuation in the time series graph, there is a significant difference between the actual and trained datasets. According to the results above, the RMSE is better for approximation for this passenger volume model. 
+Due to the fluctuation in the time series graph, there is a significant difference between the actual and trained datasets. According to the results above, the MAE is better for approximation for this passenger volume model. 
 
 ![title](images/trained_graph.png)
 
