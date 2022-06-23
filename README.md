@@ -117,14 +117,18 @@ An estimator curve was plotted to mathematically analyze the trend of the passen
 
 Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 80% of the datasets were used for training and 20% of the datasets were used for testing the model. Once the predictions were made, three methods to test the performance of the model were used: Mean Absolute Error, Mean Squared Error, and Root Mean Squared.
 
-
+This is the formula for the Mean Absolute Error (MAE)
 
 $$ MAE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ |y_i\ -\ \hat{y}_i| \ $$
 
 
-The formula above shows the Mean Absolute Error (MAE) used to train the dataset.
+This is the formula for the Mean Squared Error (MSE)
 
 $$ MSE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i)^2 \ $$
+
+This is the formula for the Root Mean Squared Error (RMSE)
+
+$$ RMSE\ =\ \sum_{i=1}^{n} \ \frac{(y_i\ -\ \hat{y}_i)^2}{n}   \ $$
 
 
 # Time Series Forecasting
