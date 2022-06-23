@@ -164,4 +164,4 @@ The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume
 
 ![title](images/bus_wait.jpg)
 
-### 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building.
+### A 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building.
