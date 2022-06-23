@@ -156,7 +156,7 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 
 ![title](images/predicted_trend.png)
 
-### Figure 14. above shows the graph of the projected passenger volume until 2034 with respect to the historical data.
+### Figure 14. above shows the graph of the projected passenger volume until 2034 and the historical data.
 
 # Conclusive Remarks
 ![title](images/bus_wait.jpg)
