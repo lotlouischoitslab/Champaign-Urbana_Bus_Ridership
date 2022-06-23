@@ -100,9 +100,13 @@ Although all the figures above called the function to perform data analysis and 
 
 The given dataset by the Champaign County Regional Data Portal neede some cleaning to be fitted appropriately for the time series forecasting model. The months had to be aligned sequentially with respect to each year from 1997 to 2021. New dataframe had to be created using the Pandas library. Months had to be adjusted in sequential order. To make the datasets consistent with the appropriate sequence, the dates have been adjusted by default to the starting day of that specific given month for each year. Pandas has another function which converts the independent variable to date and time format. The modified data frame was used for the time series analysis and forecasting for passenger volume. 
 
+
+
+### Figure 10. above shows the modified time data frame
+
 ![title](images/estimator.png)
 
-### Figure 10. above shows the estimator for traffic trend analysis
+### Figure 11. above shows the estimator for traffic trend analysis
 
 An estimator curve was plotted to mathematically analyze the trend of the passenger volume of the CUMTD buses.The blue lines represent the recorded passenger ridership by the Champaign County Portal. The orange line shows the estimator line to approximate the passenger trend of the CUMTD buses. 
 
@@ -110,6 +114,7 @@ An estimator curve was plotted to mathematically analyze the trend of the passen
 
 # Machine Learning and Dataset Training
 
+Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 80% of the datasets were used for training and 20% of the datasets were used for testing the model. 
 
 The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The Decision Tree, Random Forest algorithms were used to train the datasets. Using the Decision Tree Regressor, the mean absolute error (MAE) fluctuated variously meaning that this model is not the most optimal choice to train the given dataset. To minimize the MAE, the Random Forest Algorithm was used to determine the MAE with a lower fluctuation. The Random Forest Algorithm gave an approximate MAE value of 350535. 
 
