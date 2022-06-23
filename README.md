@@ -151,7 +151,8 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 
 ![title](images/forecasted_data.png)
 
-### Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts
+###  Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts
+
 
 ![title](images/predicted_trend.png)
 
