@@ -104,6 +104,7 @@ The given dataset by the Champaign County Regional Data Portal neede some cleani
 
 ### Figure 10. above shows the modified time data frame
 
+
 ![title](images/estimator.png)
 
 ### Figure 11. above shows the estimator for traffic trend analysis
@@ -114,9 +115,8 @@ An estimator curve was plotted to mathematically analyze the trend of the passen
 
 # Machine Learning and Dataset Training
 
-Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 80% of the datasets were used for training and 20% of the datasets were used for testing the model. 
+Datasets were split into training datasets and testing datasets in the model. They were used to predict the total passenger ridership for each year with respect to the given months. 80% of the datasets were used for training and 20% of the datasets were used for testing the model. Once the predictions were made, three methods to test the performance of the model were used: Mean Absolute Error, Mean Squared Error, and Root Mean Squared.
 
-The datasets given were trained to determine how accurate the models are to predict the total passenger ridership for each month. The Decision Tree, Random Forest algorithms were used to train the datasets. Using the Decision Tree Regressor, the mean absolute error (MAE) fluctuated variously meaning that this model is not the most optimal choice to train the given dataset. To minimize the MAE, the Random Forest Algorithm was used to determine the MAE with a lower fluctuation. The Random Forest Algorithm gave an approximate MAE value of 350535. 
 
 
 $$ MAE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ |y_i\ -\ \hat{y}_i| \ $$
