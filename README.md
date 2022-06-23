@@ -132,11 +132,11 @@ $$ RMSE\ =\ \sqrt{ \sum_{i=1}^{n} \ \frac{(y_i\ -\ \hat{y}_i)^2}{n} }   \ $$
 
 The values for MAE, MSE, and RMSE are shown below
 
-$$ MAE \= 430076.94040383556 \$$
+$$ MAE \= 551616.0835039305 \$$
 
-$$ MSE \= 265478323501.64444 \$$
+$$ MSE \= 373232104920.6135 \$$
 
-$$ RMSE \= 515245.88644805737 \$$
+$$ RMSE \= 610927.2501048006 \$$
 
 Due to the fluctuation in the time series graph, there is a significant difference between the actual and trained datasets. According to the results above, the MAE is better for approximation for this passenger volume model. 
 
@@ -164,4 +164,4 @@ The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume
 
 ![title](images/bus_wait.jpg)
 
-### A 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building.
+### A 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building shown above.
