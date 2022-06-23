@@ -146,4 +146,8 @@ Due to the fluctuation in the time series graph, there is a significant differen
 
 
 # Time Series Forecasting
-Finally, using a moving average, forecasting of the ridership of CUMTD buses was performed. After fitting the given model of passenger volume training datasets with the moving average, 60 seasonal periods were forecasted including previous data from 2017 to predicted passenger volume in 2031.   
+Finally, using a moving average, forecasting of the ridership of CUMTD buses was performed. After fitting the given model of passenger volume training datasets with the moving average, 60 seasonal periods were forecasted including previous data from 2017 to predicted passenger volume in 2034.
+
+![title](images/predicted_trend.png)
+
+### Figure 13. above shows the projected passenger volume until 2034.
