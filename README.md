@@ -159,6 +159,7 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 ### Figure 14. above shows the graph of the projected passenger volume until 2034 and the historical data.
 
 # Conclusive Remarks
+
 ![title](images/bus_wait.jpg)
 
 The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume from the official Champaign County Regional Data Portal was initially used to analyze the monthly ridership with respect to years to determine which month has the highest volume of passengers. The given dataset was then cleaned and parsed to perform time series forecasting to predict future passenger volume of the CUMTD buses. 
