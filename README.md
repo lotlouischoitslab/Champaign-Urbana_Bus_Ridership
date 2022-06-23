@@ -124,7 +124,7 @@ $$ MAE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ |y_i\ -\ \hat{y}_i| \ $$
 
 The formula above shows the Mean Absolute Error (MAE) used to train the dataset.
 
-$$ MSE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i|)^2 \ $$
+$$ MSE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i)^2 \ $$
 
 
 # Time Series Forecasting
