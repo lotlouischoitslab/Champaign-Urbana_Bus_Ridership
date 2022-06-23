@@ -130,9 +130,14 @@ This is the formula for the Root Mean Squared Error (RMSE)
 
 $$ RMSE\ =\ \sqrt{ \sum_{i=1}^{n} \ \frac{(y_i\ -\ \hat{y}_i)^2}{n} }   \ $$
 
-![title](images/mse.png)
+The values for MAE, MSE, and RMSE are shown below
 
-### Figure 12. above shows the calculated values for each of the formulas to analyze the accurracy. 
+$$ MAE \= 430076.94040383556 $$
+$$ MSE \= 265478323501.64444 $$
+$$ RMSE \= 515245.88644805737 $$
+
+
+
 
 
 # Time Series Forecasting
