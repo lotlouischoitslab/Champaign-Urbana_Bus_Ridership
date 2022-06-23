@@ -138,12 +138,8 @@ $$ MSE \= 265478323501.64444 \$$
 
 $$ RMSE \= 515245.88644805737 \$$
 
-
-
+Due to the fluctuation in the time series graph, there is a significant difference between the actual and trained datasets. According to the results above, the MAE is better for approximation for this passenger volume model. 
 
 
 # Time Series Forecasting
-
-```python
-s
-```
+Finally, using a moving average, forecasting of the ridership of CUMTD buses was performed. After fitting the given model of passenger volume training datasets with the moving average, 60 seasonal periods were forecasted including previous data from 2017 to predicted passenger volume in 2031.   
