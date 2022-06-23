@@ -128,7 +128,7 @@ $$ MSE\ =\ \frac{1}{n} \sum_{i=1}^{n} \ (y_i\ -\ \hat{y}_i)^2 \ $$
 
 This is the formula for the Root Mean Squared Error (RMSE)
 
-$$ RMSE\ =\ \sqrt{( \sum_{i=1}^{n} \ \frac{(y_i\ -\ \hat{y}_i)^2}{n})}   \ $$
+$$ RMSE\ =\ \sqrt{ \sum_{i=1}^{n} \ \frac{(y_i\ -\ \hat{y}_i)^2}{n} }   \ $$
 
 
 # Time Series Forecasting
