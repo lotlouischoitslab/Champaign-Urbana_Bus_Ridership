@@ -102,12 +102,12 @@ The given dataset by the Champaign County Regional Data Portal neede some cleani
 
 ![title](images/cleaned_data.png)
 
-### Figure 10. above shows the modified time data frame.
+#### Figure 10. above shows the modified time data frame.
 
 
 ![title](images/estimator.png)
 
-### Figure 11. above shows the estimator for traffic trend analysis.
+#### Figure 11. above shows the estimator for traffic trend analysis.
 
 An estimator curve was plotted to mathematically analyze the trend of the passenger volume of the CUMTD buses.The blue lines represent the recorded passenger ridership by the Champaign County Portal. The orange line shows the estimator line to approximate the passenger trend of the CUMTD buses. 
 
@@ -142,7 +142,7 @@ Due to the fluctuation in the time series graph, there is a significant differen
 
 ![title](images/trained_graph.png)
 
-### Figure 12. above shows the trained and tested datasets and prediction estimator.
+#### Figure 12. above shows the trained and tested datasets and prediction estimator.
 
 
 # Time Series Forecasting
@@ -151,12 +151,12 @@ Finally, using a moving average, forecasting of the ridership of CUMTD buses was
 
 ![title](images/forecasted_data.png)
 
-###  Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts.
+####  Figure 13. above shows the forecasted passenger volume until 2034 broken into 60 seasonal parts.
 
 
 ![title](images/predicted_trend.png)
 
-### Figure 14. above shows the graph of the projected passenger volume until 2034 and the historical data.
+#### Figure 14. above shows the graph of the projected passenger volume until 2034 and the historical data.
 
 # Conclusive Remarks
 
@@ -164,4 +164,4 @@ The dataset for the Champaign-Urbana Mass Transit bus passenger ridership volume
 
 ![title](images/bus_wait.jpg)
 
-### A 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building shown above.
+#### A 5W bus bound for Round Barn RD waits infront of Sidney Lu Mechanical Engineering Building shown above.
