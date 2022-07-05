@@ -11,7 +11,7 @@
 
 
 #### A 5W GREEN hopper bus approaches a bus stop shown above. 
-- ### Image source: https://yourewelcomecu.com/cumtd-bus-photos/
+- #### Image source: https://yourewelcomecu.com/cumtd-bus-photos/
 
 
 This project is about analyzing and predicting the ridership of the buses in the Champaign-Urbana area operated by the Champaign-Urbana Mass Transit District also known as CUMTD. Datasets were acquired from the official Champaign County Regional Data Portal which could be found here:
@@ -24,7 +24,7 @@ Datasets from the years 1997 to 2022 and months of July, October, December and F
 
 
 The image above shows the CUMTD bus network that connects Campustown, Champaign and Urbana.
-- ### Image source: https://mtd.org/maps-and-schedules/maps/
+- #### Image source: https://mtd.org/maps-and-schedules/maps/
 
 As shown in the image above, the CUMTD bus network is very dense connecting almost all the popular places visited by many passengers.
 
