@@ -5,17 +5,14 @@
 
 
 # Project Description
-
+This project is about analyzing and predicting the ridership of the buses in the Champaign-Urbana area operated by the Champaign-Urbana Mass Transit District also known as CUMTD. Datasets were acquired from the official Champaign County Regional Data Portal which could be found here:
+- #### Dataset source: https://data.ccrpc.org/da_DK/dataset/transit-ridership
 
 ![Alt text](https://yourewelcomecu.com/wp-content/uploads/2015/09/Church-Neil-web.jpg)
 
 
 #### A 5W GREEN hopper bus approaches a bus stop shown above. 
 - #### Image source: https://yourewelcomecu.com/cumtd-bus-photos/
-
-
-This project is about analyzing and predicting the ridership of the buses in the Champaign-Urbana area operated by the Champaign-Urbana Mass Transit District also known as CUMTD. Datasets were acquired from the official Champaign County Regional Data Portal which could be found here:
-- #### Dataset source: https://data.ccrpc.org/da_DK/dataset/transit-ridership
 
 Datasets from the years 1997 to 2022 and months of July, October, December and February were used to analyze and predict the passenger volume for the bus.
 
